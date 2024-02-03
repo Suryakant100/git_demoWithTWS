@@ -1,0 +1,50 @@
+ls - List directory contents
+cd - Change directory
+pwd - Print working directory
+cp - Copy files and directories
+mv - Move/rename files and directories
+rm - Remove files and directories
+mkdir - Create directories
+rmdir - Remove directories
+touch - Create empty files
+cat - Concatenate and display files
+less - View file content one page at a time
+head - Display the beginning of a file
+tail - Display the end of a file
+grep - Search for patterns in files
+find - Search for files and directories
+chmod - Change file permissions
+chown - Change file ownership
+sudo - Execute a command as the superuser
+su - Switch user
+df - Display disk usage
+du - Display directory space usage
+tar - Manipulate tape archives
+gzip - Compress or decompress files
+gunzip - Decompress files
+zip - Package and compress files
+unzip - Extract files from a zip archive
+ping - Test network connectivity
+ifconfig - Configure network interfaces
+ssh - Secure Shell protocol
+scp - Securely copy files between hosts
+wget - Retrieve files from the web
+curl - Transfer data from or to a server
+ps - Display information about processes
+top - Display and update sorted information about processes
+kill - Terminate processes
+shutdown - Shutdown or restart the system
+reboot - Reboot the system
+uname - Display system information
+date - Display or set the system date and time
+cal - Display a calendar
+echo - Display a line of text
+hostname - Display or set the system's hostname
+who - Display information about users
+whoami - Display the current user
+history - Display command history
+alias - Create or display aliases
+export - Set environment variables
+source - Execute commands from a file in the current shell
+chmod - Change file permissions
+chown - Change file ownership
